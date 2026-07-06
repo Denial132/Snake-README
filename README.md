@@ -20,7 +20,7 @@ This is a classic Snake game created in Python using Pygame. The player controls
 |------|--------|
 | Arrow Keys | Move snake |
 | P | Pause/Resume |
-| Esc | Return to menu (if enabled) |
+| Esc | Return to menu |
 
 Buttons can also be used to navigate the menus.
 
