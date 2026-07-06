@@ -45,5 +45,5 @@ python Snake.py
 ## Files
 
 - `Snake.py` – Main game
-- `assets/` – Images, fonts and sounds (Make sure to put the background and the sound files into a file called assets)
+- `assets/` – Images, fonts and sounds (Make sure to put the background and the death sound files into a file called assets)
 - `save.json` – Stores the high score
