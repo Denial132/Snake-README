@@ -81,8 +81,10 @@ This project was created as part of my game development journey. I built the gam
 ## 📜 Credits
 
 Created by **Denial132**
-
 Built using Python and Pygame.
+
+original game by **Taneli Armanto**
+Built using C.
 
 ## 📄 License
 
